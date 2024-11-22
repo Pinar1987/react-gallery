@@ -38,3 +38,44 @@ body {
   font-size: 1rem;
   color: green;
 }
+
+.navContainer {
+  text-align: right;
+  background-color: blueviolet;
+  padding: 30px 80px;
+  color: white;
+  font-weight: bold;
+}
+
+.navLink {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+
+}
+
+.counterContainer {
+  text-align: center;
+  margin: 20px;
+}
+
+.counterSpan {
+  color: red;
+}
+
+.counterButton {
+  margin: 5px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: large;
+}
+.counterButton:hover {
+  background-color: aqua;
+}
+
+.footer {
+  background-color: blueviolet;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
