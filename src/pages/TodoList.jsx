@@ -1,11 +1,12 @@
-
+import TodoListInput from "../components/TodoListInput"
 
 const TodoList  = () => {
 
 
     return(
         <div>
-            <p>todo list</p>
+            <p>Todo list</p>
+            <TodoListInput/>
         </div>
     )
 }
